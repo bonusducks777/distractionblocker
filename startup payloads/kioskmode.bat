@@ -1,0 +1,1 @@
+start chrome --chrome --kiosk https://google.co.uk --disable-pinch --no-user-gesture-required --overscroll-history-navigation=0
