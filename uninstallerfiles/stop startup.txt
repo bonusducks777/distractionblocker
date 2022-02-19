@@ -1,0 +1,5 @@
+go to
+%USERPROFILE%\Start Menu\Programs\Startup\
+in your file explorer
+and delete
+kioskmode.bat
