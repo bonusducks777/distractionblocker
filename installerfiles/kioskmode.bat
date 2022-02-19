@@ -1,0 +1,1 @@
+start chrome --chrome --kiosk http://learn.duckydev.net --disable-pinch --no-user-gesture-required --overscroll-history-navigation=0

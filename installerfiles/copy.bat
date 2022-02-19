@@ -1,0 +1,1 @@
+copy kioskmode.bat "%USERPROFILE%\Start Menu\Programs\Startup"
